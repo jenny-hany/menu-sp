@@ -1,0 +1,45 @@
+﻿  Source.cpp
+D:\JENNY\source\repos\sp project\flappy bird 2\flappy bird 2\Source.cpp(21,44): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\JENNY\source\repos\sp project\flappy bird 2\flappy bird 2\Source.cpp(21,22): warning C4244: 'initializing': conversion from 'T' to 'const float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\JENNY\source\repos\sp project\flappy bird 2\flappy bird 2\Source.cpp(22,44): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\JENNY\source\repos\sp project\flappy bird 2\flappy bird 2\Source.cpp(22,22): warning C4244: 'initializing': conversion from 'T' to 'const float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\JENNY\source\repos\sp project\flappy bird 2\flappy bird 2\Source.cpp(47,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\JENNY\source\repos\sp project\flappy bird 2\flappy bird 2\Source.cpp(47,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\JENNY\source\repos\sp project\flappy bird 2\flappy bird 2\Source.cpp(103,58): warning C4305: '=': truncation from 'double' to 'float'
+D:\JENNY\source\repos\sp project\flappy bird 2\flappy bird 2\Source.cpp(141,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\JENNY\source\repos\sp project\flappy bird 2\flappy bird 2\Source.cpp(149,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\JENNY\source\repos\sp project\flappy bird 2\flappy bird 2\Source.cpp(234,36): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\JENNY\source\repos\sp project\flappy bird 2\flappy bird 2\Source.cpp(234,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  flappy bird 2.vcxproj -> D:\JENNY\source\repos\sp project\flappy bird 2\x64\Debug\flappy bird 2.exe
