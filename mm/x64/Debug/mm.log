@@ -1,0 +1,63 @@
+﻿  Source.cpp
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(26,40): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(26,22): warning C4244: 'initializing': conversion from 'T' to 'const float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(27,40): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(27,22): warning C4244: 'initializing': conversion from 'T' to 'const float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(68,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(85,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(105,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(125,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(145,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(165,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(197,71): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(197,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(227,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(227,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(228,29): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(289,58): warning C4305: '=': truncation from 'double' to 'float'
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(335,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(343,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(520,36): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(520,31): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(964,25): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(989,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(989,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(1119,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(1119,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(1124,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(1124,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(1151,39): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\JENNY\source\repos\sp project\easy med hard\mm\Source.cpp(1151,34): warning C4305: 'argument': truncation from 'double' to 'float'
+  mm.vcxproj -> D:\JENNY\source\repos\sp project\easy med hard\x64\Debug\mm.exe
